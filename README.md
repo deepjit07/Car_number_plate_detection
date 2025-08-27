@@ -1,8 +1,8 @@
 # Car-Number-Plates-Detection
 
 ## Steps To Run Code
-1. Conda Create -p ./venv python=3.9 -y
-2. conda activate ./venv
+1. python -m venv myenv
+2. .\myenv\Scripts\Activate.ps1
 
 ## Requirementx.txt install
 Pip install -r requirements.txt
